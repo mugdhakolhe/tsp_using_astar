@@ -1,0 +1,448 @@
+
+======================
+no: 5
+fcost: 58
+gcost: 16
+hcost: 42
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 47
+gcost: 11
+hcost: 36
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 19
+hcost: 38
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 52
+gcost: 14
+hcost: 38
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 55
+gcost: 26
+hcost: 29
+visited: 3 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 48
+gcost: 25
+hcost: 23
+visited: 3 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 52
+gcost: 28
+hcost: 24
+visited: 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 49
+gcost: 38
+hcost: 11
+visited: 3 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 54
+gcost: 43
+hcost: 11
+visited: 3 1 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 61
+gcost: 50
+hcost: 11
+visited: 3 1 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 51
+gcost: 40
+hcost: 11
+visited: 3 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 46
+hcost: 11
+visited: 3 1 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 64
+gcost: 53
+hcost: 11
+visited: 3 1 4 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 51
+gcost: 26
+hcost: 25
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 55
+gcost: 31
+hcost: 24
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 58
+gcost: 32
+hcost: 26
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 52
+gcost: 41
+hcost: 11
+visited: 3 4 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 50
+gcost: 39
+hcost: 11
+visited: 3 4 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 64
+gcost: 53
+hcost: 11
+visited: 3 4 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 55
+hcost: 11
+visited: 3 4 0 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 55
+hcost: 11
+visited: 3 1 2 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 50
+gcost: 39
+hcost: 11
+visited: 3 1 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 49
+gcost: 38
+hcost: 11
+visited: 3 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 67
+gcost: 56
+hcost: 11
+visited: 3 1 0 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 57
+hcost: 11
+visited: 3 1 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 46
+hcost: 11
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 56
+gcost: 45
+hcost: 11
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 58
+hcost: 11
+visited: 3 4 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 60
+gcost: 32
+hcost: 28
+visited: 3 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 56
+gcost: 33
+hcost: 23
+visited: 3 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 63
+gcost: 37
+hcost: 26
+visited: 3 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 59
+gcost: 48
+hcost: 11
+visited: 3 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 61
+gcost: 50
+hcost: 11
+visited: 3 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 70
+gcost: 59
+hcost: 11
+visited: 3 4 1 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 70
+gcost: 59
+hcost: 11
+visited: 3 1 4 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 60
+gcost: 31
+hcost: 29
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 29
+hcost: 28
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 53
+gcost: 28
+hcost: 25
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 56
+gcost: 45
+hcost: 11
+visited: 3 0 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 46
+hcost: 11
+visited: 3 0 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 70
+gcost: 59
+hcost: 11
+visited: 3 0 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 54
+gcost: 43
+hcost: 11
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 58
+gcost: 47
+hcost: 11
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 60
+hcost: 11
+visited: 3 0 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 60
+hcost: 11
+visited: 3 0 4 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 75
+gcost: 64
+hcost: 11
+visited: 3 0 2 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 56
+gcost: 45
+hcost: 11
+visited: 3 4 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 57
+gcost: 46
+hcost: 11
+visited: 3 4 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 60
+hcost: 11
+visited: 3 4 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 61
+hcost: 11
+visited: 3 4 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 60
+hcost: 11
+visited: 3 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 58
+gcost: 47
+hcost: 11
+visited: 3 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 55
+gcost: 44
+hcost: 11
+visited: 3 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 61
+hcost: 11
+visited: 3 2 0 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 75
+gcost: 64
+hcost: 11
+visited: 3 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 56
+gcost: 45
+hcost: 11
+visited: 3 0 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 59
+gcost: 48
+hcost: 11
+visited: 3 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 74
+gcost: 63
+hcost: 11
+visited: 3 0 1 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 77
+gcost: 66
+hcost: 11
+visited: 3 0 1 4 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 73
+gcost: 62
+hcost: 11
+visited: 3 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 60
+gcost: 49
+hcost: 11
+visited: 3 2 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 54
+hcost: 11
+visited: 3 2 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 75
+gcost: 64
+hcost: 11
+visited: 3 2 4 0 1 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+Dobreta -> Bucharest -> Craiova -> Arad -> Eforie -> Dobreta
+No. of nodes generated are: 67
+No. of nodes expanded are: 44

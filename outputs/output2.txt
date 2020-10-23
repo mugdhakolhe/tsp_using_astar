@@ -1,0 +1,3815 @@
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 143
+gcost: 48
+hcost: 95
+visited: 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 10
+hcost: 62
+visited: 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 19
+hcost: 94
+visited: 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 17
+hcost: 66
+visited: 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 17
+hcost: 13
+visited: 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 179
+gcost: 92
+hcost: 87
+visited: 1 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 167
+gcost: 108
+hcost: 59
+visited: 1 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 66
+hcost: 10
+visited: 1 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 104
+gcost: 94
+hcost: 10
+visited: 1 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 69
+hcost: 10
+visited: 1 2 0 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 186
+gcost: 94
+hcost: 92
+visited: 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 174
+gcost: 115
+hcost: 59
+visited: 1 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 20
+hcost: 17
+visited: 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 69
+hcost: 10
+visited: 1 4 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 112
+gcost: 102
+hcost: 10
+visited: 1 4 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 76
+hcost: 10
+visited: 1 4 3 0 2 
+ Node pushed: 
+city1 -> city2 -> city0 -> city3 -> city4 -> city1
+No. of nodes generated are: 18
+No. of nodes expanded are: 9
+======================
+no: 5
+fcost: 143
+gcost: 48
+hcost: 95
+visited: 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 10
+hcost: 62
+visited: 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 19
+hcost: 94
+visited: 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 17
+hcost: 66
+visited: 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 17
+hcost: 13
+visited: 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 179
+gcost: 92
+hcost: 87
+visited: 1 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 167
+gcost: 108
+hcost: 59
+visited: 1 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 66
+hcost: 10
+visited: 1 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 104
+gcost: 94
+hcost: 10
+visited: 1 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 69
+hcost: 10
+visited: 1 2 0 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 186
+gcost: 94
+hcost: 92
+visited: 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 174
+gcost: 115
+hcost: 59
+visited: 1 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 20
+hcost: 17
+visited: 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 69
+hcost: 10
+visited: 1 4 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 112
+gcost: 102
+hcost: 10
+visited: 1 4 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 76
+hcost: 10
+visited: 1 4 3 0 2 
+ Node pushed: 
+city1 -> city2 -> city0 -> city3 -> city4 -> city1
+No. of nodes generated are: 18
+No. of nodes expanded are: 9
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
+======================
+no: 5
+fcost: 109
+gcost: 77
+hcost: 32
+visited: 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 17
+hcost: 59
+visited: 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 168
+gcost: 98
+hcost: 70
+visited: 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 52
+hcost: 13
+visited: 4 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 32
+gcost: 22
+hcost: 10
+visited: 4 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 136
+gcost: 85
+hcost: 51
+visited: 4 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 73
+gcost: 70
+hcost: 3
+visited: 4 3 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 35
+gcost: 32
+hcost: 3
+visited: 4 3 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 42
+gcost: 39
+hcost: 3
+visited: 4 3 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 103
+gcost: 100
+hcost: 3
+visited: 4 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 62
+gcost: 59
+hcost: 3
+visited: 4 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 69
+hcost: 3
+visited: 4 3 0 2 1 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 77
+hcost: 3
+visited: 4 3 1 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 65
+hcost: 85
+visited: 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 27
+hcost: 52
+visited: 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 46
+gcost: 36
+hcost: 10
+visited: 4 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 88
+gcost: 85
+hcost: 3
+visited: 4 1 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 121
+gcost: 118
+hcost: 3
+visited: 4 1 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 34
+hcost: 3
+visited: 4 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 112
+gcost: 109
+hcost: 3
+visited: 4 1 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 4 1 2 0 3 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city4 -> city3 -> city0 -> city2 -> city1 -> city4
+No. of nodes generated are: 27
+No. of nodes expanded are: 16
+======================
+no: 5
+fcost: 109
+gcost: 77
+hcost: 32
+visited: 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 17
+hcost: 59
+visited: 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 168
+gcost: 98
+hcost: 70
+visited: 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 52
+hcost: 13
+visited: 4 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 32
+gcost: 22
+hcost: 10
+visited: 4 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 136
+gcost: 85
+hcost: 51
+visited: 4 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 73
+gcost: 70
+hcost: 3
+visited: 4 3 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 35
+gcost: 32
+hcost: 3
+visited: 4 3 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 42
+gcost: 39
+hcost: 3
+visited: 4 3 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 103
+gcost: 100
+hcost: 3
+visited: 4 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 62
+gcost: 59
+hcost: 3
+visited: 4 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 72
+gcost: 69
+hcost: 3
+visited: 4 3 0 2 1 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 77
+hcost: 3
+visited: 4 3 1 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 65
+hcost: 85
+visited: 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 27
+hcost: 52
+visited: 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 46
+gcost: 36
+hcost: 10
+visited: 4 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 88
+gcost: 85
+hcost: 3
+visited: 4 1 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 121
+gcost: 118
+hcost: 3
+visited: 4 1 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 34
+hcost: 3
+visited: 4 1 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 112
+gcost: 109
+hcost: 3
+visited: 4 1 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 4 1 2 0 3 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city4 -> city3 -> city0 -> city2 -> city1 -> city4
+No. of nodes generated are: 27
+No. of nodes expanded are: 16
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 34
+gcost: 7
+hcost: 27
+visited: 2 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 10
+hcost: 59
+visited: 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 154
+gcost: 82
+hcost: 72
+visited: 2 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 172
+gcost: 98
+hcost: 74
+visited: 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 65
+gcost: 55
+hcost: 10
+visited: 2 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 80
+gcost: 56
+hcost: 24
+visited: 2 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 110
+gcost: 84
+hcost: 26
+visited: 2 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 81
+gcost: 74
+hcost: 7
+visited: 2 0 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 79
+gcost: 72
+hcost: 7
+visited: 2 0 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 68
+gcost: 58
+hcost: 10
+visited: 2 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 113
+gcost: 29
+hcost: 84
+visited: 2 1 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 27
+hcost: 56
+visited: 2 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 114
+gcost: 107
+hcost: 7
+visited: 2 1 0 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 142
+gcost: 135
+hcost: 7
+visited: 2 1 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 82
+gcost: 75
+hcost: 7
+visited: 2 0 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 66
+gcost: 59
+hcost: 7
+visited: 2 0 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 83
+gcost: 76
+hcost: 7
+visited: 2 0 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 84
+gcost: 77
+hcost: 7
+visited: 2 0 1 3 4 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 99
+gcost: 92
+hcost: 7
+visited: 2 0 3 1 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 111
+gcost: 104
+hcost: 7
+visited: 2 1 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 37
+gcost: 30
+hcost: 7
+visited: 2 1 4 3 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 79
+hcost: 7
+visited: 2 1 4 3 0 
+ Node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+FINAL node pushed: 
+city2 -> city0 -> city3 -> city4 -> city1 -> city2
+No. of nodes generated are: 28
+No. of nodes expanded are: 17
+======================
+no: 5
+fcost: 79
+gcost: 49
+hcost: 30
+visited: 3 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 106
+gcost: 19
+hcost: 87
+visited: 3 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 150
+gcost: 82
+hcost: 68
+visited: 3 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 23
+gcost: 3
+hcost: 20
+visited: 3 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 93
+gcost: 80
+hcost: 13
+visited: 3 4 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 30
+gcost: 20
+hcost: 10
+visited: 3 4 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 152
+gcost: 101
+hcost: 51
+visited: 3 4 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 71
+gcost: 68
+hcost: 3
+visited: 3 4 1 0 
+ Node pushed: 
+======================
+no: 5
+fcost: 33
+gcost: 30
+hcost: 3
+visited: 3 4 1 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 40
+gcost: 37
+hcost: 3
+visited: 3 4 1 2 0 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 78
+gcost: 75
+hcost: 3
+visited: 3 4 1 0 2 
+ Node pushed: 
+FINAL node pushed: 
+======================
+no: 5
+fcost: 198
+gcost: 97
+hcost: 101
+visited: 3 0 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 76
+gcost: 56
+hcost: 20
+visited: 3 0 2 
+ Node pushed: 
+======================
+no: 5
+fcost: 139
+gcost: 126
+hcost: 13
+visited: 3 0 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 69
+gcost: 66
+hcost: 3
+visited: 3 0 2 1 
+ Node pushed: 
+======================
+no: 5
+fcost: 157
+gcost: 154
+hcost: 3
+visited: 3 0 2 4 
+ Node pushed: 
+======================
+no: 5
+fcost: 86
+gcost: 83
+hcost: 3
+visited: 3 0 2 1 4 
+ Node pushed: 
+city3 -> city4 -> city1 -> city2 -> city0 -> city3
+No. of nodes generated are: 20
+No. of nodes expanded are: 11
