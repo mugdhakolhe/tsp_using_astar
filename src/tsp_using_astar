@@ -1,0 +1,430 @@
+/*
+																				
+																				
+Use A* to solve the Travelling Salesperson Problem (TSP) using Minimum Spanning Tree (MST) heuristic on a large fully connected graph (greater than 50 nodes). 
+
+=============================================================================================================================================================
+Assumptions:
+
+Initial State: Agent in the START city and has not visited any other city
+Goal State: Agent has visited all the cities and reached the START city again
+Successor Function: Generates all cities that have not yet visited
+Edge-cost: distance between the cities represented by the nodes, use this cost to calculate g(n).
+f(n): distance to the nearest unvisited city from the current city + 
+		estimated distance to travel all the unvisited cities (MST heuristic used here) + 
+		nearest distance from an unvisited city to the START city. 
+Note that this is an admissible heuristic and inconsistent function.
+
+===============================================================================================================================================================
+Made by
+
+Author: Mugdha Satish Kolhe
+Enrollment No: BT17CSE043
+Course Code: CSL-412
+Course: Artificial Intelligence
+
+================================================================================================================================================================
+
+*/
+#include <bits/stdc++.h>
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <sstream>
+
+#define START 3	//you can change your START node here
+#define SIZE 5	//no of cities
+
+using namespace std;
+
+class Node	//This is thenode which will be stored in priority queue or fringe list or open list.
+{
+	public:
+		int no;	//the no representing the node
+		Node *parent;	//additional facility given for backtracking
+		int fcost;	//fcost of the nost
+		int gcost;	//gcost of the node
+		int hcost;	//hcost of the node
+		vector <int>visited;	//track of visited: state 
+		
+		Node(int x, int y, vector<int> v, int g, int h, Node *p)	//constructor invoked when new node is generated
+		{
+			no=x;
+			fcost=y;
+			for(int i=0; i<v.size(); i++)
+			{
+				visited.push_back(v[i]);
+			}
+			gcost=g;
+			hcost=h;  
+			parent=p;
+		}
+		
+		void print()	//for testing purpose. Prints the contents of node
+		{
+			cout<<"======================"<<endl;
+			cout<<"no: "<<no<<endl;
+			cout<<"fcost: "<<fcost<<endl;
+			cout<<"gcost: "<<gcost<<endl;
+			cout<<"hcost: "<<hcost<<endl;
+			cout<<"visited: ";
+			for(int i=0; i<visited.size(); i++)
+			{
+				cout<<visited[i]<<" ";
+			}
+			cout<<endl;
+		}		
+};
+
+
+struct CompareFCost //function to assist storing storing nodes in order of their fcost in fringe list.
+{ 
+	bool operator()(Node const& p1, Node const& p2) 
+	{ 
+		return p1.fcost > p2.fcost; 
+	} 
+};
+
+int minKey(int key[], bool mstSet[], int V) 	//Find the vertex with minimum key value, from the set of vertices not yet included in MST
+{ 
+	int min = INT_MAX, min_index;
+	//Initialize  
+    for (int v = 0; v < V; v++) 
+	{
+		if (mstSet[v] == false && key[v] < min)
+		{
+		 	min = key[v], min_index = v; 
+		}
+	}
+ 	return min_index; 
+} 
+
+// Print the constructed MST stored in parent[] 
+int printMST(int parent[], int V, vector<vector <int> > graph) 
+{ 
+	int cost=0;
+    //cout<<"Edge \t\tWeight\n"; 
+    for (int i = 1; i < V; i++) 
+    {
+		//cout<<parent[i]<<" - "<<i<<" \t"<<graph[i][parent[i]]<<" \n";
+		cost+=graph[i][parent[i]];
+	}
+	return cost;	
+}
+ 
+// Construct and print MST for a graph represented using adjacency matrix representation 
+int primMST(int V, vector<vector <int > > graph) 
+{ 
+    int parent[V]; 
+    int key[V];
+	int cost=0; 
+    bool mstSet[V]; 
+ 	for (int i = 0; i < V; i++) 
+    {
+		key[i] = INT_MAX, mstSet[i] = false; 
+	}
+ 	key[0] = 0; 
+    parent[0] = -1; 
+ 	for (int count = 0; count < V - 1; count++)
+    { 
+        int u = minKey(key, mstSet, V); 
+ 		mstSet[u] = true;  
+ 		for (int v = 0; v < V; v++) 
+ 		{
+			if (graph[u][v] && mstSet[v] == false && graph[u][v] < key[v]) 
+            {
+            	parent[v] = u, key[v] = graph[u][v]; 
+        	}
+    	}
+    } 
+ 	cost=printMST(parent, V, graph);
+	return cost; 
+} 
+
+int mst(vector<int> visited, int no, vector< vector <int > > full)
+{
+	vector<int> unvisited;
+	int size, k=0, l=0, i, j, cost;
+	for(i=0; i<no; i++)
+	{
+		if(count(visited.begin(), visited.end(), i)==0)	//extracting the unvisited nodes
+		{
+			unvisited.push_back(i);
+		}
+	}
+	size=unvisited.size();
+	vector< vector <int > > graph;
+	for(i=0; i<no; i++)
+	{
+		if(count(visited.begin(), visited.end(), i)==0)
+		{
+			l=0;
+			vector <int> v;
+			for(j=0; j<no; j++)
+			{
+				if(count(visited.begin(), visited.end(), j)==0)
+				{
+					v.push_back(full[i][j]);
+				}
+			}
+			graph.push_back(v);
+		}
+	}
+	for(i=0; i<size; i++)
+	{
+		for(j=0; j<size; j++)
+		{
+			//cout<<graph[i][j]<<" ";
+		}
+	//	cout<<endl;
+	}
+	cost=primMST(size, graph);
+	return cost;
+}
+
+int main()
+{
+	int no, i, j, x, flag=0, min;	//no = vertices, START=Starting node
+	string str, city, dist;
+	priority_queue<Node, vector<Node>, CompareFCost> Q;
+	int a[SIZE][SIZE];
+	srand(time(0));
+	ofstream fout;
+	
+	//Uncomment this part of graph for  random graph generator
+	
+	/*for(int i=0;i<SIZE;i++)	//randomized graph generator
+	{
+		for(int j=0;j<SIZE;j++)
+		{
+			int b=rand()%100+1;	//1 is added to prevent 0 from getting add as it would be meaningless
+			if(i==j)
+			{
+				a[i][j]=0;
+			}
+			else if(b>0)
+			{
+				a[i][j]=a[j][i]=b;
+			}
+			else
+			{
+				j--;
+			}
+		}
+	}
+	string line; 
+	fout.open("input5.txt");	//code to generate randomize graph
+	fout<<SIZE<<endl;
+	for(int i=0; i<SIZE; i++)
+	{
+		fout<<"city"<<i<<" ";
+	} 
+	fout<<endl;
+	for(int i=0; i<SIZE; i++)
+		{
+			for(int j=0; j<SIZE; j++)
+			{
+				fout<<a[i][j]<<" ";
+			}
+			fout<<endl;
+		}
+	fout.close();
+	*/
+	
+	
+	 
+	ifstream file("input1.txt");	//input file reading
+	getline (file, str);
+	stringstream ss(str); 
+  	ss>>no;	//no stores the no of cities
+  	cout<<"No of vertices: "<<no<<endl;;
+	getline (file, str);
+	string cities[no];
+	stringstream iss(str);
+	i=0; 
+  	while (iss >> city) 
+    {
+    	cities[i]=city;
+		i++;	
+    }
+    for(i=0; i<no; i++)	//cities array stores the cities
+    {
+    	cout<<cities[i]<<" ";
+	}
+	cout<<endl;
+    i=0;
+    vector < vector <int > > graph;	//graph stores the adjancy matrix of input distances
+	while (getline (file, str)) 
+	{
+    	j=0; 
+    	stringstream s(str);
+    	vector<int> v;
+  		while (s>>dist) 
+    	{
+    		stringstream geek(dist); 
+  			geek>>x;   
+    		//graph[i][j]=x;	
+    		v.push_back(x);
+    		//j++;
+    	}
+    	graph.push_back(v);
+    	//i++;
+  	}
+  	for(i=0; i<no; i++)	//display graph
+  	{
+  		for(j=0; j<no; j++)
+  		{
+  			cout<<graph[i][j]<<" ";
+		}
+		cout<<endl;
+	}
+	file.close();
+	fout.open("output1.txt", ios::app);			//file in which output is stored
+	
+	//astar code STARTs here
+	vector <int> v;
+	v.push_back(START);
+	int nodes_expanded=0, nodes_generated=0;	//var to store no of nodes generated and expanded
+	int h_cost=mst(v, no, graph);
+	int g_cost=0;
+	int f_cost=g_cost+h_cost;
+	Node n=Node(START, f_cost, v, 0, h_cost, NULL);	//start name, fcost, visited, hcost, gcost
+	n.parent=NULL;	//start node inserted in queue
+	Q.push(n);
+	nodes_generated++;	
+	while(!Q.empty())
+	{
+		Node curr=Q.top();
+		Q.pop();	//select the node with min fcost for expansion
+		nodes_expanded++;
+		cout<<"Node popped"<<endl;
+		curr.print();
+		//check if goal found
+		if(curr.visited.size()==no+1 && curr.visited[no]==START)
+		{
+			flag=1;
+			cout<<"Goal is reached"<<endl;
+			for(i=0; i<no; i++)
+			{
+				cout<<cities[curr.visited[i]]<<" -> ";
+				fout<<cities[curr.visited[i]]<<" -> ";
+			}
+			cout<<cities[curr.visited[i]]<<endl;
+			fout<<cities[curr.visited[i]]<<endl;
+			break;
+		}
+		else
+		{
+			//successor function: generate all cities not yet visited
+			vector <int>unvisited;
+			int arr[no]={0};
+			for(i=0; i<curr.visited.size(); i++)
+			{
+				arr[curr.visited[i]]=1;
+			}
+			for(i=0; i<no; i++)
+			{
+				if(arr[i]==0)
+				{
+					unvisited.push_back(i);
+				}
+			}
+			
+			/*
+			cout<<"visited: ";
+			for(i=0; i<curr.visited.size(); i++)
+			{
+				cout<<curr.visited[i]<<" ";
+			}
+			cout<<endl;
+			cout<<"unvisited: ";
+			for(i=0; i<unvisited.size(); i++)
+			{
+				cout<<unvisited[i]<<" ";
+			}
+			cout<<endl;
+			*/
+			
+			//cout<<"Unvisited size: "<<unvisited.size()<<endl;
+			for(i=0; i<unvisited.size(); i++)	//generate successors of the selected node
+			{
+				//create nodes
+				//if(graph[curr.no][unvisited[i]]>0)
+				//{
+				int number=unvisited[i];
+				vector <int>svect;
+				for(j=0; j<curr.visited.size(); j++)
+				{
+					svect.push_back(curr.visited[j]);
+				}
+				svect.push_back(unvisited[i]);
+				int newgcost=curr.gcost+graph[curr.no][unvisited[i]];	//gcode will be gcost of parent + distance between parent and succesor2+
+				int newhcost=mst(svect, no, graph);	//calculating the hcost by mst heuristics (unvisited nodes)
+				min=INT_MAX;
+				for(int i=0; i<no; i++)	//for complete adding the distance from start node of the graph to nearst node in mst to hcost
+				{
+					if(i!=START)
+					{
+						if(min>graph[START][i])
+						{
+							min=graph[START][i];
+						}
+					}
+				}
+				newhcost+=min;
+				int newfcost=newhcost+newgcost;
+				Node newnode=Node(number, newfcost, svect, newgcost, newhcost, &curr);
+				
+				Q.push(newnode);	//push them in the fringe list
+				fout<<"======================"<<endl;
+				fout<<"no: "<<no<<endl;
+				fout<<"fcost: "<<newnode.fcost<<endl;
+				fout<<"gcost: "<<newnode.gcost<<endl;
+				fout<<"hcost: "<<newnode.hcost<<endl;
+				fout<<"visited: ";
+				for(int i=0; i<newnode.visited.size(); i++)
+				{
+					fout<<newnode.visited[i]<<" ";
+				}
+				fout<<endl;
+				nodes_generated++;
+				cout<<" Node pushed: "<<endl;
+				fout<<" Node pushed: "<<endl;
+				newnode.print();
+			}
+			if(unvisited.size()==0)	//to go back to start push start node again with updated values
+			{
+				//push back START node
+				int number=0;
+				vector <int>svect;
+				for(j=0; j<curr.visited.size(); j++)
+				{
+					svect.push_back(curr.visited[j]);
+				}
+				svect.push_back(START);
+				int newgcost=curr.gcost+graph[curr.no][START];
+				int newhcost=0;
+				int newfcost=newhcost+newgcost;
+				Node newnode=Node(number, newfcost, svect, newgcost, newhcost, &curr);
+				Q.push(newnode);
+				nodes_generated++;
+				cout<<"FINAL node pushed: "<<endl;
+				fout<<"FINAL node pushed: "<<endl;
+				newnode.print();
+			}
+		}
+//	}
+	}
+	cout<<"========================================================="<<endl;
+	cout<<"No. of nodes generated are: "<<nodes_generated<<endl;
+	fout<<"No. of nodes generated are: "<<nodes_generated<<endl;
+	cout<<"No. of nodes expanded are: "<<nodes_expanded<<endl;
+	fout<<"No. of nodes expanded are: "<<nodes_expanded<<endl;
+	cout<<"========================================================="<<endl;
+	if(flag==0)
+	{
+		cout<<"Queue empty. No solution found. "<<endl;
+		fout<<"Queue empty. No solution found. "<<endl;
+	}
+	return 0;
+}
